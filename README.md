@@ -4,7 +4,7 @@ Hello! This is the beginning of my project for creating a personal website/portf
 
 ## Education
 
-University of California, San Diego - The Halıcıoğlu Data Science Institute (HDSI) 
+University of California, San Diego - The Halıcıoğlu Data Science Institute (HDSI)   
 B.S in Data Science, June 2025
 
 ### Scholarships and Honors
@@ -19,5 +19,5 @@ Five consecutive quarters of [Revelle College's Provost Honors](https://revelle.
 
 [Language Classifier](https://github.com/malmahasnah/languageclassifier/tree/main)								
 
-◦ Built a language classifier from scratch that can distinguish between Spanish and French words
+◦ Built a language classifier from scratch that can distinguish between Spanish and French words  
 ◦ Used a simple least squares model and bi-gram features; achieved an overall accuracy of 84%+ on the leaderboard, and ranked in the top 55 in a class of 240+ students.
