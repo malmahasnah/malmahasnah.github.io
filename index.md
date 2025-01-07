@@ -1,5 +1,3 @@
-# Maryam Almahasnah
-
 Hello! This is the beginning of my project for creating a personal website/portfolio. insert intro text; who am i, where i study, where i currently work (data sci tutor + data assistant) + maybe capstone?
 
 ## Education
