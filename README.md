@@ -15,6 +15,6 @@ Full Merit Scholarship, Sponsored by the [Saudi Arabian Cultural Mission \(SACM\
 
 ## Projects
 
-[Language Classifier] (https://github.com/malmahasnah/languageclassifier/tree/main)								March 2024
+[Language Classifier](https://github.com/malmahasnah/languageclassifier/tree/main)								March 2024
 ◦ Built a language classifier from scratch that can distinguish between Spanish and French words
 ◦ Used a simple least squares model and bi-gram features; achieved an overall accuracy of 84%+ on the leaderboard, and ranked in the top 55 in a class of 240+ students.
