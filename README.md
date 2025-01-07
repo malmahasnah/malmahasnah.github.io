@@ -8,7 +8,7 @@ University of California, San Diego - The Halıcıoğlu Data Science Institute (
 Bachelor of Science in Data Science
 
 ### Scholarships + Honors
-Full Merit Scholarship, Sponsored by the [Saudi Arabian Cultural Mission (SACM)] (https://www.sacm.org/).
+Full Merit Scholarship, Sponsored by the [Saudi Arabian Cultural Mission \(SACM\)](https://www.sacm.org/).
 
 ## Experience
 ## Projects
