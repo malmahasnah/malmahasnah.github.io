@@ -22,7 +22,6 @@ UC San Diego [Revelle College Provost Honors](https://revelle.ucsd.edu/academics
 ## Projects
 
 [Language Classifier](https://github.com/malmahasnah/languageclassifier/tree/main)								
-
 ◦ Built a language classifier from scratch that can distinguish between Spanish and French words  
 ◦ Used a simple least squares model and bi-gram features; achieved an overall accuracy of 84%+ on the leaderboard, and ranked in the top 55 in a class of 240+ students.
 
@@ -32,8 +31,8 @@ UC San Diego [Revelle College Provost Honors](https://revelle.ucsd.edu/academics
 ◦ Used the Likelihood Ratio Test and Goodness of Fit Tests. Used metrics for model behavior evaluation.
 
 [Big O Explained: an Interactive Data Visualization](https://anmarkova2223.github.io/big-o-scrolly/)  
-◦ Worked as part of a team to create a website that would explain Big O Notation to beginners
-◦ Utilized Python, HTML, Javascript, D3 and Svelte to create a user friendly interactive webpage
+◦ Worked as part of a team to create a website that would explain Big O Notation to beginners  
+◦ Utilized Python, HTML, Javascript, D3 and Svelte to create a user friendly interactive webpage  
 ◦ Deployed the website to be used in lower-divison Data Science courses to support students' learning through engaging material.
 
 [Interactive Data Visualization: Male vs. Female Income](https://zoeludena.github.io/dsc106-Interactive-Income/)  
