@@ -1,9 +1,10 @@
 ## Maryam Almahasnah  
-Hello! This is the beginning of my project for creating a personal website/portfolio. insert intro text; who am i, where i study, where i currently work (data sci tutor + data assistant) + maybe capstone?
+Hello! My name is Maryam and I'm a senior Data Science major at the University of California San Diego. I am in the first and finest college, Revelle College.  
+Currently, I work as an undergrad Data Science Tutor and a Data Analysis Assistant to the Associate Director of [Revelle's Humanities Program](https://revelle.ucsd.edu/humanities/), [Dr. Kristina Markman](https://www.kristinamarkman.com/).
 
 ## Education
 
-University of California, San Diego - The Halıcıoğlu Data Science Institute (HDSI)   
+University of California, San Diego - [The Halıcıoğlu Data Science Institute \(HDSI\)](https://datascience.ucsd.edu/)   
 B.S in Data Science, June 2025
 
 ### Scholarships and Honors
