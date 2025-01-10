@@ -14,14 +14,23 @@ UC San Diego [Revelle College Provost Honors](https://revelle.ucsd.edu/academics
 
 ## Experience
 
-#### Data Analysis Assistant                                (Jan 2025 - present)  
-#### Revelle College, UC San Diego
-    - Assisting ...
+### Data Analysis Assistant                                (Jan 2025 - present)  
+### Revelle College, UC San Diego  
+Currently assisting the Associate Director of Revelle's program in a Data Analysis and Assessement Project. I am in the process of cleaning, organizing and presenting data consisting of evaluations of students' performace before and after the incorporation of a standardized writing curriculum.  
 
 
-- Data Science Tutor at HDSI with Prof. Justin (September 2024 - present)
-- Data Science Intern at the Saudi Telecommunication Company (August 2024 - September 2024)
-- Lobster & More Startup - Cohead of Marketing & Analytics (May 2024 - present)
+### Data Science Tutor (September 2024 - present)  
+### Halıcıoğlu Data Science Institute, UC San Diego  
+I currently tutor for [DSC 140A](https://dsc140a.com/) : Probabilistic Modeling and Machine Learning with Professor Justin Eldridge. I hold weekly office hours for a class of 300+ students to help students understand difficult concepts and answer any questions on the course content and the assignments. I am also resposible for grading homeworks, labs and exams as well as posting those weekly assignments and releasing grades. I previously tutored for DSC 40B: Theoretical Foundations of Data Science.  
+
+### Data Science Intern (August 2024 - September 2024)  
+### the Saudi Telecommunication Company (stc)  
+In Summer 2024, I interned in the Advanced Analytics with program manager Mohammed Umar Farooq and worked with a sample HR Employee Dataset. My projects consisted of building a model to predict employee attrition as well as grouping employees using a k-means clustering algorithm based on features selected using PCA.  
+
+### Cohead of Marketing & Analytics (May 2024 - present)  
+### Lobster & More Startup  
+In Summer 2024, I joined a founding team to launch a seafood startup in Saudi Arabia with the goal of selling and delivering fresh seafood to regions all over the country. I serve as the cohead of Marketing and Analytics as I utilize various digital media and analytics tools to promote and market the firm and its purpose.  
+
 - Research Assistant at the UCSD Brain and Cognition Lab with Dr. Seana Coulson (May 2024 - present)
 
 ## Projects
@@ -41,6 +50,7 @@ UC San Diego [Revelle College Provost Honors](https://revelle.ucsd.edu/academics
 ◦ Deployed the website to be used in lower-divison Data Science courses to support students' learning through engaging material.
 
 [Interactive Data Visualization: Male vs. Female Income](https://zoeludena.github.io/dsc106-Interactive-Income/)  
+
 
 
 
