@@ -1,4 +1,4 @@
-![My Picture](my-photo.jpg)
+![My Picture](me-2025.jpg)
 
 ## Maryam Almahasnah  
 Hello! My name is Maryam and I'm a senior Data Science major at the University of California San Diego. I am in the first and finest college, Revelle College.  
