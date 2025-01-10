@@ -1,4 +1,4 @@
-<img src="me-2025.jpg" alt="me-2025.jpg" style="width:200px; border-radius:50%;">
+<img src="my-photo.jpg" alt="My Picture" style="width:400px;">
 
 ## Maryam Almahasnah  
 Hello! My name is Maryam and I'm a senior Data Science major at the University of California San Diego. I am in the first and finest college, Revelle College.  
