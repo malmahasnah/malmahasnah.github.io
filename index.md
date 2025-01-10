@@ -13,7 +13,12 @@ Full Merit Scholarship, Sponsored by the [Saudi Arabian Cultural Mission \(SACM\
 UC San Diego [Revelle College Provost Honors](https://revelle.ucsd.edu/academics/honors-opportunities/honors-programs.html#Provost-Honors): Received five consecutive quarters of honors, including the 2023-2024 Academic Year.
 
 ## Experience
-- Data Assistant with Prof. Kristina (Jan 2025 - present)
+
+#### Data Analysis Assistant                                (Jan 2025 - present)  
+#### Revelle College, UC San Diego
+    - Assisting ...
+
+
 - Data Science Tutor at HDSI with Prof. Justin (September 2024 - present)
 - Data Science Intern at the Saudi Telecommunication Company (August 2024 - September 2024)
 - Lobster & More Startup - Cohead of Marketing & Analytics (May 2024 - present)
