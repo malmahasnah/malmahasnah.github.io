@@ -1,3 +1,5 @@
+![My Picture](my-photo.jpg)
+
 ## Maryam Almahasnah  
 Hello! My name is Maryam and I'm a senior Data Science major at the University of California San Diego. I am in the first and finest college, Revelle College.  
 Currently, I work as an undergrad Data Science Tutor and a Data Analysis Assistant to the Associate Director of [Revelle's Humanities Program](https://revelle.ucsd.edu/humanities/), [Dr. Kristina Markman](https://www.kristinamarkman.com/).
