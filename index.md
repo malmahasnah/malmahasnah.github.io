@@ -18,7 +18,7 @@ UC San Diego [Revelle College Provost Honors](https://revelle.ucsd.edu/academics
 
 ### Data Analysis Assistant                                (Jan 2025 - present)
 #### Revelle College, UC San Diego  
-Currently assisting the Associate Director of Revelle's program in a Data Analysis and Assessement Project. I am in the process of cleaning, organizing and presenting data consisting of evaluations of students' performace before and after the incorporation of a standardized writing curriculum.  
+Currently assisting the Associate Director of Revelle's program in a Data Analysis and Assessment Project. I am in the process of cleaning, organizing and presenting data consisting of evaluations of students' performance before and after the incorporation of a standardized writing curriculum.  
 
 
 ### Data Science Tutor (September 2024 - present)
